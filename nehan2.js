@@ -599,8 +599,9 @@ if(!Nehan){
       fontSize: 16,
       fontColor: "000000",
       linkColor: "0000FF",
-      charImgRoot: "http://nehan.googlecode.com/hg/char-img/",
+      //charImgRoot: "http://nehan.googlecode.com/hg/char-img/",
       //charImgRoot:"/img/char-img/",
+      charImgRoot:"https://raw.githubusercontent.com/tategakibunko/old-nehan/master/char-img/",
       nextLineOffsetRate: 1.8
     }, opt);
     this.init();
