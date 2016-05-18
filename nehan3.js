@@ -259,7 +259,8 @@ var config = {
     lineBreakCheckLevel : 2
   },
   // define resource path for img of special characters.
-  charImgRoot: "http://nehan.googlecode.com/hg/char-img"
+  //charImgRoot: "http://nehan.googlecode.com/hg/char-img"
+  charImgRoot:"https://raw.githubusercontent.com/tategakibunko/old-nehan/master/char-img/"
 };
 
 
