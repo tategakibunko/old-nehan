@@ -1,5 +1,7 @@
-This is backups of old version for nehan.js
+# old-nehan
 
-Latest release is [here](https://github.com/tategakibunko/nehan.js).
+Just a backups of nehan.js(older versions).
+
+Latest release is found [here](https://github.com/tategakibunko/nehan.js).
 
 
